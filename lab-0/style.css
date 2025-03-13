@@ -1,0 +1,14 @@
+body {
+  margin: 0px 20px 40px 40px;
+  font-family: serif;
+  line-height: 1.6;
+  font-size: 20px;
+}
+
+.sender-column {
+  text-align: right;
+}
+
+.sender-column time {
+  font-style: normal;
+}
